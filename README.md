@@ -1,2 +1,2 @@
-# opencvCamProject
-OpenCV based human detection using kaggle XML models hosted on raspberry pi. Email service using IFTT and SMTP
+# Human-detecting-Pi-Cam
+Human Detecting security Camera using OpenCV trained on kaggle models
