@@ -1,2 +1,2 @@
-# Human-detecting-Pi-Cam
-Human Detecting security Camera using OpenCV trained on kaggle models
+Learning Project based on OpenCV
+Human Detecting Camera built on .xml dataset
